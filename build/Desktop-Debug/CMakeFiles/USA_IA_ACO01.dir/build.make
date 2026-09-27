@@ -92,6 +92,8 @@ USA_IA_ACO01_EXTERNAL_OBJECTS =
 
 USA_IA_ACO01: CMakeFiles/USA_IA_ACO01.dir/main.cpp.o
 USA_IA_ACO01: CMakeFiles/USA_IA_ACO01.dir/build.make
+USA_IA_ACO01: /usr/lib/gcc/x86_64-linux-gnu/13/libgomp.so
+USA_IA_ACO01: /usr/lib/x86_64-linux-gnu/libpthread.a
 USA_IA_ACO01: CMakeFiles/USA_IA_ACO01.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/odes/Documentos/USA_IA_ACO01/build/Desktop-Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable USA_IA_ACO01"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/USA_IA_ACO01.dir/link.txt --verbose=$(VERBOSE)

@@ -1,1 +1,1 @@
-/usr/bin/g++-13 -DQT_QML_DEBUG -g CMakeFiles/USA_IA_ACO01.dir/main.cpp.o -o USA_IA_ACO01 
+/usr/bin/g++-13 -DQT_QML_DEBUG -g CMakeFiles/USA_IA_ACO01.dir/main.cpp.o -o USA_IA_ACO01  /usr/lib/gcc/x86_64-linux-gnu/13/libgomp.so /usr/lib/x86_64-linux-gnu/libpthread.a 
