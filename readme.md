@@ -4,7 +4,7 @@ Este proyecto implementa una solución de alto rendimiento basada en el algoritm
 
 ---
 
-## 📂 Estructura del Workspace y Archivos
+## Estructura del Workspace y Archivos
 
 El repositorio contiene las diferentes versiones evolutivas y la versión final optimizada del sistema:
 
@@ -15,7 +15,7 @@ El repositorio contiene las diferentes versiones evolutivas y la versión final 
 
 ---
 
-## 🚀 Optimizaciones Clave Implementadas
+## Optimizaciones Clave Implementadas
 
 Para lograr procesar un mapa masivo de 200,000 ciudades en una laptop sin colapsar el sistema, se aplicaron cuatro pilares de ingeniería de software:
 
@@ -30,7 +30,7 @@ Para lograr procesar un mapa masivo de 200,000 ciudades en una laptop sin colaps
 
 ---
 
-## 📊 Métricas de Desempeño (Ejecución Real)
+## Métricas de Desempeño (Ejecución Real)
 
 * **Volumen evaluado:** 200,000 ciudades con $k = 40$.
 * **Parámetros ACO:** 50 hormigas, 10 iteraciones, $\alpha = 1.0$, $\beta = 3.0$, $\rho = 0.5$.
@@ -39,7 +39,7 @@ Para lograr procesar un mapa masivo de 200,000 ciudades en una laptop sin colaps
 
 ---
 
-## 🛠️ Compilación y Ejecución
+## Compilación y Ejecución
 
 1. Abre el proyecto utilizando **Qt Creator**.
 2. Asegúrate de que el archivo `CMakeLists.txt` reconozca el soporte para OpenMP en tu entorno de compilación (GCC/Clang en Linux).
