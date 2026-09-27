@@ -1,0 +1,1 @@
+/usr/bin/g++-13 -DQT_QML_DEBUG -g CMakeFiles/USA_IA_ACO01.dir/main.cpp.o -o USA_IA_ACO01 
