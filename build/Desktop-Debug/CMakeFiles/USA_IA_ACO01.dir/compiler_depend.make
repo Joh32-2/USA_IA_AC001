@@ -71,6 +71,7 @@ CMakeFiles/USA_IA_ACO01.dir/main.cpp.o: /home/odes/Documentos/USA_IA_ACO01/main.
   /usr/include/c++/13/bits/stl_iterator_base_types.h \
   /usr/include/c++/13/bits/stl_numeric.h \
   /usr/include/c++/13/bits/stl_pair.h \
+  /usr/include/c++/13/bits/stl_relops.h \
   /usr/include/c++/13/bits/stl_tempbuf.h \
   /usr/include/c++/13/bits/stl_uninitialized.h \
   /usr/include/c++/13/bits/stl_vector.h \
@@ -141,6 +142,7 @@ CMakeFiles/USA_IA_ACO01.dir/main.cpp.o: /home/odes/Documentos/USA_IA_ACO01/main.
   /usr/include/c++/13/tuple \
   /usr/include/c++/13/type_traits \
   /usr/include/c++/13/typeinfo \
+  /usr/include/c++/13/utility \
   /usr/include/c++/13/vector \
   /usr/include/ctype.h \
   /usr/include/endian.h \
@@ -289,8 +291,6 @@ CMakeFiles/USA_IA_ACO01.dir/main.cpp.o: /home/odes/Documentos/USA_IA_ACO01/main.
 /usr/include/x86_64-linux-gnu/bits/wchar.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h:
-
-/usr/include/x86_64-linux-gnu/bits/types/clockid_t.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h:
 
@@ -451,6 +451,8 @@ CMakeFiles/USA_IA_ACO01.dir/main.cpp.o: /home/odes/Documentos/USA_IA_ACO01/main.
 /usr/include/c++/13/tr1/poly_laguerre.tcc:
 
 /usr/include/c++/13/bits/basic_string.h:
+
+/usr/include/c++/13/utility:
 
 /usr/include/c++/13/bits/locale_facets_nonio.tcc:
 
@@ -638,6 +640,10 @@ CMakeFiles/USA_IA_ACO01.dir/main.cpp.o: /home/odes/Documentos/USA_IA_ACO01/main.
 
 /usr/include/c++/13/bits/stl_numeric.h:
 
+/usr/include/x86_64-linux-gnu/bits/types/clockid_t.h:
+
+/usr/include/c++/13/bits/stl_relops.h:
+
 /usr/include/c++/13/locale:
 
 /usr/include/c++/13/bits/stl_uninitialized.h:
@@ -661,6 +667,12 @@ CMakeFiles/USA_IA_ACO01.dir/main.cpp.o: /home/odes/Documentos/USA_IA_ACO01/main.
 /usr/include/c++/13/bits/new_allocator.h:
 
 /usr/include/c++/13/bits/uses_allocator_args.h:
+
+/usr/include/c++/13/tr1/beta_function.tcc:
+
+/usr/include/c++/13/bits/stl_function.h:
+
+/usr/include/c++/13/bits/utility.h:
 
 /usr/include/c++/13/bits/vector.tcc:
 
@@ -755,9 +767,3 @@ CMakeFiles/USA_IA_ACO01.dir/main.cpp.o: /home/odes/Documentos/USA_IA_ACO01/main.
 /usr/include/c++/13/system_error:
 
 /usr/include/c++/13/tr1/bessel_function.tcc:
-
-/usr/include/c++/13/bits/stl_function.h:
-
-/usr/include/c++/13/bits/utility.h:
-
-/usr/include/c++/13/tr1/beta_function.tcc:
